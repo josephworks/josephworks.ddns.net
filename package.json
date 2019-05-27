@@ -1,0 +1,25 @@
+{
+  "name": "josephworks.ddns.net",
+  "version": "1.0.0",
+  "description": "A website for JosephWorks' Main Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephworks/josephworks.ddns.net.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Joseph Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephworks/josephworks.ddns.net/issues"
+  },
+  "homepage": "http://josephworks.ddns.net",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
