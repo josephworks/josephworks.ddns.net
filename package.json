@@ -22,7 +22,7 @@
   "homepage": "http://josephworks.ddns.net",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.5.0",
+    "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   }
 }
